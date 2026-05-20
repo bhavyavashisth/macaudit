@@ -35,7 +35,7 @@
 You can easily download, build, and install the universal binary directly to your local path:
 
 ```bash
-git clone [https://github.com/bhavyavashisth/macaudit.git](https://github.com/bhavyavashisth/macaudit.git)
+git clone https://github.com/bhavyavashisth/macaudit.git
 cd macaudit
 make build-all
 ./dist/macaudit-darwin-universal install

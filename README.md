@@ -41,7 +41,7 @@ make build-all
 ./dist/macaudit-darwin-universal install
 ```
 ### By default, it installs to ~/.local/bin/macaudit.
-> Note: If ~/.local/bin is not in your shell path, the installer will conveniently print the exact export PATH=... command you need to add to your profile).
+> Note: If ~/.local/bin is not in your shell path, the installer will conveniently print the exact export PATH="$HOME/.local/bin:$PATH" .
 
 ## Once installed, simply type the following from anywhere to launch the UI:
 ```bash
@@ -81,7 +81,7 @@ To get the most accurate results (especially for Startup, Apps, and IR checks), 
 
     Open System Settings > Privacy & Security > Full Disk Access.
 
-    Click the + to add your terminal app (Terminal, iTerm, Codex, etc.).
+    Click the + to add your terminal app (Terminal, iTerm, etc.).
 
     Toggle it ON.
 

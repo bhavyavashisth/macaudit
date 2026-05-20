@@ -101,13 +101,13 @@ make build-all
 ```
 > Compiled outputs will be located in the dist/ folder
 ## 🗺️ Roadmap
-- [ ] Deeper TCC (Transparency, Consent, and Control) privacy parsing.
+- Deeper TCC (Transparency, Consent, and Control) privacy parsing.
 
-- [ ] Signed release packages.
+-  Signed release packages.
 
-- [ ] Optional privileged helper for safe, automated fixes.
+-  Optional privileged helper for safe, automated fixes.
 
-- [ ] Richer app notarization checks.
+-  Richer app notarization checks.
 ## 🤝 Ethics & Usage
 This tool is designed purely for defensive auditing on systems you own or have explicit permission to inspect. It is local-first, privacy-respecting, and does not exploit targets.
 

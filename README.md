@@ -30,6 +30,9 @@
 
 ---
 
+## 🎨 UI 
+![macaudit TUI Interface](assets/preview.jpg) 
+
 ## 🚀 Quick Install
 
 You can easily download, build, and install the universal binary directly to your local path:

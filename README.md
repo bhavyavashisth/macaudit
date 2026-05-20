@@ -2,7 +2,7 @@
 
 > **A powerful, local-first macOS security audit CLI with an interactive Terminal UI.**
 
-`macaudit` is designed to help you quickly assess the security posture of your Mac. Whether you are running an older **Intel Mac** or the latest **Apple Silicon (M1/M2/M3)**, `macaudit` ships as a **Universal Binary** to work flawlessly across all modern macOS architectures.
+`macaudit` is designed to help you quickly assess the security posture of your Mac. Whether you are running an older **Intel Mac** or the latest **Apple Silicon (M1/M2/M3/M4/M4/M5)**, `macaudit` ships as a **Universal Binary** to work flawlessly across all modern macOS architectures.
 
 ![macOS Supported](https://img.shields.io/badge/macOS-Intel_%7C_Apple_Silicon-000000?style=for-the-badge&logo=apple)
 ![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=for-the-badge&logo=go)
